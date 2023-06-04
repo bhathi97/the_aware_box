@@ -12,3 +12,5 @@ When an object is placed inside the box, the Ultrasonic sensor continuously meas
 In addition to object detection, the box utilizes a DHT11 sensor to measure humidity and temperature within the storage environment. This data is essential for maintaining the optimal conditions required for preserving the object's quality and preventing any damage due to unfavorable environmental factors.
 
 By integrating the Ultrasonic and DHT11 sensors with a mobile application, this security box provides users with real-time updates on object presence and environmental conditions. This ensures that valuable items are kept safe, while also promoting their longevity and preserving their quality.
+
+![](https://github.com/bhathi97/the_aware_box/edit/main/ideal_circuit.png)
