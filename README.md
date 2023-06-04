@@ -13,4 +13,6 @@ In addition to object detection, the box utilizes a DHT11 sensor to measure humi
 
 By integrating the Ultrasonic and DHT11 sensors with a mobile application, this security box provides users with real-time updates on object presence and environmental conditions. This ensures that valuable items are kept safe, while also promoting their longevity and preserving their quality.
 
-![](https://github.com/bhathi97/the_aware_box/edit/main/ideal_circuit.png)
+![](https://github.com/bhathi97/the_aware_box/main/ideal_circuit.png)
+
+![](https://github.com/bhathi97/handbaseball-bhathi/blob/main/Screenshot%20(1).png)
